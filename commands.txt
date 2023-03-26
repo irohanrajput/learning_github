@@ -1,0 +1,10 @@
+ls-- list of all the folders
+pwd-- present working directory
+mkdir folder_name-- create new folder
+touch file_name-- create new file
+cd-- switch folder
+cd .. -- get back from a folder
+vim -- to insert
+cat
+cp
+
