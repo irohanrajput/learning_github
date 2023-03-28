@@ -8,3 +8,17 @@ vim -- to insert
 cat
 cp
 
+
+
+
+
+rebase   , git pull
+
+
+
+
+
+new
+
+
+
