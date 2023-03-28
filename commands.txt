@@ -8,6 +8,7 @@ vim -- to insert
 cat
 cp
 
+<<<<<<< HEAD
 
 
 
@@ -22,3 +23,5 @@ new
 
 
 
+=======
+>>>>>>> 3abf0c99e5b1f68caa9dd6ed6a0a5bd71cc1f994
